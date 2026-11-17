@@ -1,0 +1,8 @@
+{
+  "name": "LASER Day by Sandy Alexandrino",
+  "description": "Parceria de depilação a laser para clínicas e salões com equipamento Acrus HTM, profissional qualificada e 30% de remuneração sem investimento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
